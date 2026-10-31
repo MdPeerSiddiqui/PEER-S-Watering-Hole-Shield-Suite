@@ -1,0 +1,88 @@
+[2026-10-31T15:26:49.692549+00:00] [HONEYPOT ALERT] ID: HONEY-20261031205649692
+  • Source IP   : 127.0.0.1 | Host: localhost
+  • Bait Trap   : Targeted Canary Token Link (CANARY_TRIPWIRE)
+  • Path        : /canary/FINANCE-CANARY-9988
+  • Referer     : Direct / Bookmark / Hidden Referrer
+  • Client Env  : Unknown OS / Embedded Device | Generic HTTP Client
+  • Canary Tag  : FINANCE-CANARY-9988
+--------------------------------------------------------------------------------
+[2026-10-31T15:26:49.700649+00:00] [HONEYPOT ALERT] ID: HONEY-20261031205649700
+  • Source IP   : 127.0.0.1 | Host: localhost
+  • Bait Trap   : Executive Salary Appraisal Sheet (SOCIAL_ENGINEERING_LURE)
+  • Path        : /payroll/q4-executive-salaries.xlsx
+  • Referer     : Direct / Bookmark / Hidden Referrer
+  • Client Env  : macOS | Apple Safari
+  • Canary Tag  : N/A
+--------------------------------------------------------------------------------
+[2026-10-31T15:26:49.705711+00:00] [HONEYPOT ALERT] ID: HONEY-20261031205649705
+  • Source IP   : 127.0.0.1 | Host: localhost
+  • Bait Trap   : Fake Corporate VPN Client Update (DIGITAL_BAIT_DRIVE_BY)
+  • Path        : /download/vpn-update-v4.exe
+  • Referer     : Direct / Bookmark / Hidden Referrer
+  • Client Env  : Unknown OS / Embedded Device | Generic HTTP Client
+  • Canary Tag  : N/A
+--------------------------------------------------------------------------------
+[2026-10-31T15:26:49.708563+00:00] [HONEYPOT ALERT] ID: HONEY-20261031205649708
+  • Source IP   : 127.0.0.1 | Host: localhost
+  • Bait Trap   : Executive Salary Appraisal Sheet (SOCIAL_ENGINEERING_LURE)
+  • Path        : /payroll/q4-executive-salaries.xlsx
+  • Referer     : Direct / Bookmark / Hidden Referrer
+  • Client Env  : Unknown OS / Embedded Device | Generic HTTP Client
+  • Canary Tag  : N/A
+--------------------------------------------------------------------------------
+[2026-10-31T15:26:49.714025+00:00] [HONEYPOT ALERT] ID: HONEY-20261031205649713
+  • Source IP   : 127.0.0.1 | Host: localhost
+  • Bait Trap   : Fake Corporate VPN Client Update (DIGITAL_BAIT_DRIVE_BY)
+  • Path        : /download/vpn-update-v4.exe
+  • Referer     : http://trusted-partner.com/downloads
+  • Client Env  : Windows 10/11 | Generic HTTP Client
+  • Canary Tag  : N/A
+--------------------------------------------------------------------------------
+[2026-10-31T15:26:49.718002+00:00] [HONEYPOT ALERT] ID: HONEY-20261031205649717
+  • Source IP   : 127.0.0.1 | Host: localhost
+  • Bait Trap   : Compromised Third-Party Vendor Portal (WATERING_HOLE_PORTAL)
+  • Path        : /vendor-portal/login
+  • Referer     : http://compromised-industry-forum.org/topics/security
+  • Client Env  : Linux | Mozilla Firefox
+  • Canary Tag  : N/A
+--------------------------------------------------------------------------------
+[2026-10-31T15:28:20.463078+00:00] [HONEYPOT ALERT] ID: HONEY-20261031205820463
+  • Source IP   : 127.0.0.1 | Host: localhost
+  • Bait Trap   : Fake Corporate VPN Client Update (DIGITAL_BAIT_DRIVE_BY)
+  • Path        : /download/vpn-update-v4.exe
+  • Referer     : http://trusted-vendor-news.org/articles/remote-work
+  • Client Env  : Windows 10/11 | Generic HTTP Client
+  • Canary Tag  : N/A
+--------------------------------------------------------------------------------
+[2026-10-31T15:28:20.467063+00:00] [HONEYPOT ALERT] ID: HONEY-20261031205820467
+  • Source IP   : 127.0.0.1 | Host: localhost
+  • Bait Trap   : Executive Salary Appraisal Sheet (SOCIAL_ENGINEERING_LURE)
+  • Path        : /payroll/q4-executive-salaries.xlsx
+  • Referer     : http://intranet-lunch-menu.sqrock-catering.com
+  • Client Env  : macOS | Apple Safari
+  • Canary Tag  : N/A
+--------------------------------------------------------------------------------
+[2026-10-31T15:28:20.469820+00:00] [HONEYPOT ALERT] ID: HONEY-20261031205820469
+  • Source IP   : 127.0.0.1 | Host: localhost
+  • Bait Trap   : Compromised Third-Party Vendor Portal (WATERING_HOLE_PORTAL)
+  • Path        : /vendor-portal/login
+  • Referer     : http://developer-tools-forum.net/threads/monitoring
+  • Client Env  : Linux | Mozilla Firefox
+  • Canary Tag  : N/A
+--------------------------------------------------------------------------------
+[2026-10-31T15:28:20.473412+00:00] [HONEYPOT ALERT] ID: HONEY-20261031205820473
+  • Source IP   : 127.0.0.1 | Host: localhost
+  • Bait Trap   : Targeted Canary Token Link (CANARY_TRIPWIRE)
+  • Path        : /canary/FINANCE-CANARY-01
+  • Referer     : http://partner-billing-gateway.com/invoices
+  • Client Env  : Windows 10/11 | Microsoft Edge
+  • Canary Tag  : FINANCE-CANARY-01
+--------------------------------------------------------------------------------
+[2026-10-31T15:28:20.476017+00:00] [HONEYPOT ALERT] ID: HONEY-20261031205820476
+  • Source IP   : 127.0.0.1 | Host: localhost
+  • Bait Trap   : Targeted Canary Token Link (CANARY_TRIPWIRE)
+  • Path        : /canary/IT-SUPPORT-CANARY-02
+  • Referer     : http://airport-wifi-portal.net/guest-login
+  • Client Env  : macOS | Apple Safari
+  • Canary Tag  : IT-SUPPORT-CANARY-02
+--------------------------------------------------------------------------------
